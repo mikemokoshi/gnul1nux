@@ -7,7 +7,7 @@ if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
 fi
 ```
 
-Если вылезает ошибка с монтированием
+Если вылезает ошибка с монтированием `nano /etc/fstab`
 
 ```
 # Static information about the filesystems.
